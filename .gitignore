@@ -1,0 +1,36 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+
+# Environment variables
+.env
+
+# Streamlit cache and logs
+.streamlit/
+logs/
+.cache/
+
+# VSCode and IDE configs
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build and dist folders
+build/
+dist/
+
+# Miscellaneous
+*.log
